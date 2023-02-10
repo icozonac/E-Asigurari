@@ -1,0 +1,31 @@
+E-Asigurari Auto
+
+                       Asigurare A Autovehiculelor
+
+Informatii despre client:
+1. Numele clientului: Andrei Chetrean
+2. Adresa clientului: Mamaia
+3. CNP clientului: 1234567891234
+4. Numarul de telefon: 0794353
+
+Informatii despre autovehiculul asigurat:
+
+Marca: MERCEDES
+Model: C-Class
+Anul fabricatiei: 2020
+
+Informatii despre asigurare:
+Nr. asigurare: 5
+Rata: 1235.0
+Tipul asigurarii: Semestrial
+
+Declar ca cele incluse in prezenta asigurare sunt adevarate si complete, in
+conformitate cu prevederile legale in vigoare si in confirmitate cu
+informatiile de care dispun, fiind de acord ca aceasta sa stea la baza si sa
+fie parte integranta a contractului de asigurare.
+
+Data completarii: 08/02/2023
+
+Contractant,                                                     angajat
+Chetrean                                                      Vasile
+Semnatura:                                                       Semnatura:

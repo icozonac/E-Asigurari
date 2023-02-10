@@ -1,0 +1,8 @@
+| Brand | Model | ID | Nume | Prenume | CNP | Adresa | Email | Telefon | Accidente |
+MERCEDES,C-Class,1,Cozonac,Ion,1234567891234,Mamaia 124,icozonac@bk.ru,074537626,false
+MERCEDES,CLA,2,Chetrean,Andrei,1234567898765,Mamaia 124,andrei@email,043543543,false
+MERCEDES,C-Class,3,jkhdash,kjhdsakjh,1234567891234,jkashd,kjdhsa,423432,false
+BMW,X7,4,Mazilu,Sergiu,1234567891234,Mamaia 124,adresa@email,07543534,true
+TOYOTA,Fortuner,5,Luca,Ion,1234567891234,Mamaia 123,lucaIon@gmail.com,06546456,true
+MERCEDES,C-Class,6,Chetrean,Andrei,1234567891234,Mamaia,adresa@mail,0794353,false
+MERCEDES,C-Class,7,sadsa,dsadas,1234234234321,adresa,asdsa,423432,false

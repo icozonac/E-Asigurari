@@ -1,0 +1,3 @@
+| ID | Tipul | Rata | Rata ramasa | Data incheierii | Data finala | Marca | Model | Nume client | Prenume client | CNP client | Nume angajat | Functie angajat |
+1,Anual,1170.0,1170.0,07/02/2023,07/02/2024,MERCEDES,C-Class,Cozonac,Ion,1234567891234,Vasile,Angajat
+2,Lunar,1300.0,541.6666666666666,08/02/2023,08/04/2023,MERCEDES,CLA,Chetrean,Andrei,1234567898765,Vasile,angajat
